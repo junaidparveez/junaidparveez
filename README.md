@@ -60,19 +60,6 @@ Java, Spring Boot, Kafka, and distributed systems.
 
 ---
 
-## 📌 Featured Projects
-
-🔹 **Project 1**  
-Short description of what you built and the problem it solves.
-
-🔹 **Project 2**  
-Short description of the architecture and technologies used.
-
-🔹 **Project 3**  
-Short description of the project.
-
----
-
 ## 📊 GitHub Stats
 
 ![Junaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
@@ -81,6 +68,5 @@ Short description of the project.
 
 ## 🤝 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN_URL
-- Portfolio: YOUR_PORTFOLIO_URL
-- Medium: YOUR_MEDIUM_URL
+- LinkedIn: https://www.linkedin.com/in/junaid-parveez-a-h-326247229/
+- Portfolio: https://junaidparveez-dev.vercel.app/
